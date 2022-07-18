@@ -1,5 +1,6 @@
 ### Hi there 👋
 ### - 🌱 I’m currently learning ...
+### Here are collected small tasks that I encountered during the training.
 
 <!--
 **Midorinoha/Midorinoha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
